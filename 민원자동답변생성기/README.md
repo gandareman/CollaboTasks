@@ -27,8 +27,7 @@
 
 ```bash
 # 저장소 복제
-git clone https://github.com/yourusername/SaeolAutoReply.git
-cd SaeolAutoReply
+git clone url.git
 
 # 필요한 패키지 설치
 pip install -r requirements.txt
