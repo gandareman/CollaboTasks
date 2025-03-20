@@ -17,6 +17,7 @@
 - 주요 기능:
     - 차량 사진에서 번호판 영역 자동 감지
     - 감지된 번호판 이미지에서 차량 번호 텍스트 추출
+    - 대량의 파일(zip 파일 형식, 또는 복수의 이미지 파일) 업로드 시 자동으로 번호 텍스트 추출
 - 참고 사항
     - 오픈소스 개발 사례: [Easy Korean License Plate Detector](https://github.com/gyupro/EasyKoreanLpDetector)
     - 차량 번호 데이터셋: [자동차 차종/연식/번호판 인식용 영상](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=172)
