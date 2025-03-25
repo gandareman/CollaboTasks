@@ -10,6 +10,9 @@
 - 한글 자동화 블로그 : https://employeecoding.tistory.com/
 - 한글 매크로 녹화 기능 활용 : https://employeecoding.tistory.com/62
 - 공문서 양식 : https://www.open.go.kr/othicInfo/infoList/orginlInfoList.do
+- mcp 개발사례  
+  - youtube : https://youtu.be/SE1qJ-zzm8o?si=_J2A62l8ILeE1FkShttps://youtu.be/SE1qJ-zzm8o?si=_J2A62l8ILeE1FkS
+  - github  : https://github.com/jkf87/hwp-mcp
 
 ## 개발 배경 및 필요성
 - 공공기관에서 생성형 AI 활용한 보고서 초안 작성, 리서치 등 활용 사례 증가함.
@@ -17,7 +20,7 @@
 - md 서식을 hwp로 간편 변환 프로그램 개발 시급하며, 공공기관 업무 효율성 향상에 크게 기여 기대됨
 
 ## 개발요구사항
--  프로그램 형태 : 데스크톱 버전, 크롬확장 버전, 옵시디언 커뮤니티 플러그인
+-  프로그램 형태 : 데스크톱 버전, 크롬확장 버전, 옵시디언 커뮤니티 플러그인, mcp 서버
 - 주기능  
 	- 문서자동변환 : chatGPT 등 생성AI에서 작성된 문서(md)를 클립보드에 복사하여 hwp 파일로 자동 변환
 	- 사용자템플릿 : 자주 사용하는 한글 문서서식을 템플릿으로 저장, md 문서를 원하는 템플릿 서식의 hwp 파일로 변환
